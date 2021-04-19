@@ -44,13 +44,9 @@ ol li:nth-child(even){background: #dfdfdf;}
 
 .strike{text-decoration: line-through;}
 
-li:hover{
-  cursor: pointer;
- }
+li:hover{cursor: pointer;}
 
-.delete {
-	display: none;
-}
+.delete {display: none;}
 
 li > crossOutButton {
 	background: none;
