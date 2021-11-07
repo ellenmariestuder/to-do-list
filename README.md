@@ -8,7 +8,7 @@ A simple to-do-list app built with jQuery.
 
 # Key Features
 * Type to-do item into text box; Add to list by pressing enter
-* Mark as completed by pressing __
+* Mark as completed by clicking the item text
 * Delete task by clicking 'x'
 
 # Technologies
