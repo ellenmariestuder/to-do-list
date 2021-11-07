@@ -3,7 +3,7 @@
 A simple to-do-list app built with jQuery.
 
 <p align="center">
-  <img src="todo.png" width="250" title="hover text">
+  <img src="todo.png" width="250" title="todo list app">
 </p>
 
 # Key Features
@@ -14,5 +14,5 @@ A simple to-do-list app built with jQuery.
 # Technologies
 * HTML
 * CSS
-* Javascript
+* JavaScript
 * jQuery
